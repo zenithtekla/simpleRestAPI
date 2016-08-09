@@ -1,0 +1,12 @@
+{
+	"name": "restful",
+	"main": "server.js",
+	"dependencies": {
+		"express": "latest",
+		"mongoose": "latest",
+		"node-restful": "latest",
+		"body-parser": "latest",
+    	"cookie-parser": "latest",
+    	"method-override": "latest"
+	}
+}
